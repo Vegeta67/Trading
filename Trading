@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eBook de Trading</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="overlay"></div>
+        <div class="container">
+            <h1>Apprenez à Gagner en Trading</h1>
+            <p>Découvrez les secrets des marchés financiers avec notre guide complet.</p>
+            <a href="#buy" class="cta">Achetez l'eBook maintenant</a>
+        </div>
+    </header>
+
+    <section class="about">
+        <div class="container">
+            <h2>À propos de l'eBook</h2>
+            <p>
+                Ce guide de trading vous enseignera tout ce que vous devez savoir pour réussir sur les marchés financiers, 
+                des bases du trading aux stratégies avancées. Il est conçu pour les débutants comme pour les traders confirmés.
+            </p>
+            <ul>
+                <li>Comprendre les marchés financiers</li>
+                <li>Apprendre les stratégies gagnantes</li>
+                <li>Gérer les risques efficacement</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="testimonials">
+        <div class="container">
+            <h2>Ce que disent nos lecteurs</h2>
+            <div class="testimonial">
+                <p>"Ce livre m'a permis de comprendre enfin le trading. J'ai commencé à voir des résultats en quelques semaines."</p>
+                <span>- Julie R.</span>
+            </div>
+            <div class="testimonial">
+                <p>"Un guide clair, pratique et accessible. Idéal pour débuter et progresser rapidement."</p>
+                <span>- Maxime L.</span>
+            </div>
+        </div>
+    </section>
+
+    <section class="buy" id="buy">
+        <div class="container">
+            <h2>Obtenez votre eBook maintenant</h2>
+            <p>Seulement 29,99€ pour accéder à toutes les clés du succès en trading.</p>
+            <a href="#" class="btn-buy">Achetez Maintenant</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2024 eBook Trading. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
